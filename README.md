@@ -1,1 +1,1 @@
-# Projeto-dio02
+# Calculadora de partidas rankeadas
